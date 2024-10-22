@@ -61,6 +61,9 @@ nyc_airbnb %>%
   plot_ly(x=~neighbourhood,y=~n,type='bar')
 ```
 
+```{r}
+plot_ly(z=volcano,type='heatmap')
+```
 
 
 
